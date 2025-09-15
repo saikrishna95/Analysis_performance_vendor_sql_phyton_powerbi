@@ -1,0 +1,7 @@
+_ipynb_checkpoints/
+__pycache__/
+logs/
+data/
+db/*.db
+# or
+/db/*.db
