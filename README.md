@@ -72,7 +72,8 @@ vedor_performance_analysis_report.pdf
 Interactive Power BI dashboard visualizing vendor performance metrics, sales trends, and inventory analysis.
 
 #### Preview
-![alt text](image.png)
+<img width="653" height="362" alt="image" src="https://github.com/user-attachments/assets/d68672f6-4539-428e-bea3-4956ea380804" />
+
 
 
 ## How to Run This Project
